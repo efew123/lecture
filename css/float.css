@@ -1,4 +1,4 @@
-@charset "utf-8"
+@charset "utf-8";
 
 section{
     background-color: teal;
@@ -6,6 +6,10 @@ section{
     margin: 2em;
     padding: 1em;
     overflow: hidden;
+}
+img{
+    width: 275px;
+    height: auto;
 }
 .f-left{
     float: left;
