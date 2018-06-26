@@ -19,6 +19,7 @@
 @keyframes intro-text{
     0%{
         width: 0;
+        opacity: 1;
     }
     100%{
         width:165px;
